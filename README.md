@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 - [Read for DCA](https://saripurigopi.github.io/dca-prep-guide/)
-- [CNCF Certified Kubernetes Application Developer (CKAD)](https://github.com/saripurigopi/CKAD)
+- [CNCF Certified Kubernetes Application Developer (CKAD)](https://github.com/saripurigopi/CKAD/)
 
 _More to follow_
 
