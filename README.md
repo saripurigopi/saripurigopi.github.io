@@ -2,11 +2,11 @@
 
 - [Read for DCA](https://saripurigopi.github.io/dca-prep-guide/)
 - [CNCF Certified Kubernetes Application Developer (CKAD)](https://github.com/saripurigopi/CKAD/)
+- [RealPython](https://realpython.com)
 
 _More to follow_
 
 ```markdown
-- Python
 - CPP
 - GoLang
 - Swift
